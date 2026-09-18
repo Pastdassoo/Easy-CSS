@@ -24,3 +24,14 @@ These are drop-in stylesheets. You do not need to add any classes to your HTML e
 1. Download the files to your project folder.
 2. Link your preferred CSS file in the `<head>` of your HTML document.
 
+       <head>
+           <meta charset="UTF-8">
+           <meta name="viewport" content="width=device-width, initial-scale=1.0">
+           <title>Easy CSS Showcase Template</title>
+
+   
+           <!-- This is a Placeholder for the file "light-green.css" -->
+           <!-- If you want to use it for another file (when I haven't found another solution yet) just switch the light-green.css part with another file name thx -->
+           <!--(!!!The line shown below is only an example!!!) -->
+           <link rel="stylesheet" href= "light-green.css"> 
+       </head>
