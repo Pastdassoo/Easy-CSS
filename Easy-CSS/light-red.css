@@ -1,1 +1,17 @@
-#light-red.css
+/*light-red.css*/
+
+:root {
+    --primary-font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --code-font: "SFMono-Regular", Consolas, Menlo, monospace;
+    --max-width: 900px;
+}
+
+
+
+/*Globals*/
+
+body {
+    font-family: var(--primary-font);
+    background-color: #000000
+  
+}
