@@ -204,6 +204,13 @@ th {
     font-weight: 800;
 }
 
+tr {
+    color:#000000;
+}
+td {
+    color:#00334b;
+}
+
 hr {
     border: 0;
     border-top: 2px dashed #e0e0e0;
