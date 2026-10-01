@@ -209,6 +209,8 @@ tr {
 }
 td {
     color:#00334b;
+    border-bottom: 1px solid #b6b6b6;
+    padding: 0.5rem;
 }
 
 hr {
